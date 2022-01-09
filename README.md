@@ -1,6 +1,6 @@
 # Information-fusion-and-machine-learning-for-sensitivity-analysis-using-physics-knowledge-and-experimental data
 
-##Highlights 
+## Highlights 
 
 • Physics-informed machine learning is investigated for global sensitivity analysis.  
 • Physics and test data are fused to maximize the accuracy of sensitivity estimates.  
